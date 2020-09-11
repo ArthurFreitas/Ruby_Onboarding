@@ -14,7 +14,13 @@
 	},
 
 	// Add the IDs of extensions you want installed when the container is created.
-	"extensions": [],
+	"extensions": [
+		"kaiwood.endwise",
+		"ninoseki.vscode-gem-lens",
+		"rebornix.ruby",
+		"castwide.solargraph",
+		"wingrunr21.vscode-ruby"
+	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [3000]
