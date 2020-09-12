@@ -4,5 +4,5 @@ class Produto
   field :name, type: String
   field :description, type: String
   field :quantity, type: Integer
-  field :price, type: Bignum
+  field :price, type: Float
 end
