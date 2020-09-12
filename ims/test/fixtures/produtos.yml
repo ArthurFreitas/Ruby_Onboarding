@@ -2,14 +2,14 @@
 
 one:
   SKU: MyString
-  nome: MyString
-  descricao: MyString
-  quantidade: 1
-  preco: 
+  name: MyString
+  description: MyString
+  quantity: 1
+  price: 
 
 two:
   SKU: MyString
-  nome: MyString
-  descricao: MyString
-  quantidade: 1
-  preco: 
+  name: MyString
+  description: MyString
+  quantity: 1
+  price: 

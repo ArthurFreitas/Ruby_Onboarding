@@ -7,23 +7,23 @@
 
 <p>
   <strong>Nome:</strong>
-  <%= @produto.nome %>
+  <%= @produto.name %>
 </p>
 
 <p>
-  <strong>Descricao:</strong>
-  <%= @produto.descricao %>
+  <strong>Descrição:</strong>
+  <%= @produto.description %>
 </p>
 
 <p>
   <strong>Quantidade:</strong>
-  <%= @produto.quantidade %>
+  <%= @produto.quantity %>
 </p>
 
 <p>
-  <strong>Preco:</strong>
-  <%= @produto.preco %>
+  <strong>Preço:</strong>
+  <%= @produto.price %>
 </p>
 
-<%= link_to 'Edit', edit_produto_path(@produto) %> |
-<%= link_to 'Back', produtos_path %>
+<%= link_to 'Editar', edit_produto_path(@produto) %> |
+<%= link_to 'Voltar', produtos_path %>
