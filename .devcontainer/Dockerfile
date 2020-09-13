@@ -31,4 +31,6 @@ RUN gem install rails -v 4.2.7.1
 
 RUN sed -i '1i source ~/\.rvm/scripts/rvm\n/' ~/.bashrc
 
+RUN mkdir workspace
+
 EXPOSE 3000
