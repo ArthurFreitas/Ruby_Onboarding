@@ -5,11 +5,11 @@ one:
   name: MyString
   description: MyString
   quantity: 1
-  price: 
+  price: 1.5
 
 two:
   SKU: MyString
   name: MyString
   description: MyString
   quantity: 1
-  price: 
+  price: 1.5

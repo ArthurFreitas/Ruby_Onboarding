@@ -1,4 +1,4 @@
-class Produto
+class Product
   include Mongoid::Document
   field :SKU, type: String
   field :name, type: String
